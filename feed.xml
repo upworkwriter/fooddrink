@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://fooddrink.netlify.app/privacy-policy.html">
+<link rel="canonical" href="https://foodadrink.netlify.app/privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,132 +18,132 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.ye7444d756a1cc753176a9cabfea87c32:hover{
-box-shadow: 0 49.6px 49.6px -25px rgb(0 0 0 / 30%);
-transform: rotate(-2deg) scale(1.03);
-}
-.ba1826d794c8d39c804956cdb3a4d5ce0 p,.ba1826d794c8d39c804956cdb3a4d5ce0 a,.ba1826d794c8d39c804956cdb3a4d5ce0 span,.ba1826d794c8d39c804956cdb3a4d5ce0 label{
-font-size:16px!important;
-}
-footer a:hover{
-color:;
-}
-footer{
-background:#090909;
-color:#ffffff;
-}
-.nav-link{
-color: #1f2361!important;
-
-}
-.nav-item{
-padding-left:8.1px;
-padding-right:7.8px;
-padding-top:5.3px;
-padding-bottom:5.2px;
-}
-.ba1826d794c8d39c804956cdb3a4d5ce0 a,.w693f2ebdbe226a15f842cf80f887d922 a{
-color:#000000!important;
-text-decoration: underline !important;
-}
 ul{
 list-style: circle;
 }
-.e92cba8d58406c1d6d280336d7074e1ae{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
+*{
+font-family: 'Kumbh Sans', sans-serif;
 }
-.w693f2ebdbe226a15f842cf80f887d922 p,.w693f2ebdbe226a15f842cf80f887d922 span,.w693f2ebdbe226a15f842cf80f887d922 label{
+.wd6c8f93c7c885df55e2ba7a66dc383b8 a{
+font-size:16px;
+}
+.btn-md{
+padding: 14.9px 30.2px;
+border-radius: 0;
+}
+a:hover{
+color:;background:!important;
+}
+.nav-item{
+padding-left:7.5px;
+padding-right:7.7px;
+padding-top:5.5px;
+padding-bottom:5.2px;
+}
+footer *{
+font-size:16px !important;
+}
+.caa3b3a2dc3cb06880ef9fd54d4ea1282 p,.caa3b3a2dc3cb06880ef9fd54d4ea1282 a,.caa3b3a2dc3cb06880ef9fd54d4ea1282 span,.caa3b3a2dc3cb06880ef9fd54d4ea1282 label{
 font-size:16px!important;
 }
 footer a{
 color:#ffffff;
 text-decoration: underline;
 }
-.w693f2ebdbe226a15f842cf80f887d922 a{
-font-size:16px;
-}
-.btn-md{
-padding: 14.7px 30px;
-border-radius: 0;
-}
-footer *{
-font-size:16px !important;
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
 .navbar a{
-font-size: 17.5px!important;
+font-size: 18.3px!important;
 font-weight: bold;
+}
+.ub84fed2f49393abc80a70ffedbe92c5c{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+.nav-link{
+color: #1f2361;
+
+}
+.caa3b3a2dc3cb06880ef9fd54d4ea1282 a,.wd6c8f93c7c885df55e2ba7a66dc383b8 a{
+color:#121212!important;
+text-decoration: underline !important;
+}
+footer{
+background:#0d0d0d;
+color:#ffffff;
+}
+.x714e0dce282458f1441283c50d6c0d22:hover{
+box-shadow: 0 49.5px 49.9px -25px rgb(0 0 0 / 30%);
+transform: rotate(-2deg) scale(1.03);
+}
+html{
+scroll-behavior: smooth;
 }
 a{
 text-decoration: none!important;
 }
-html{
-scroll-behavior: smooth;
+.wd6c8f93c7c885df55e2ba7a66dc383b8 p,.wd6c8f93c7c885df55e2ba7a66dc383b8 span,.wd6c8f93c7c885df55e2ba7a66dc383b8 label{
+font-size:16px!important;
 }
 </style>
 </head>
 <body>
 <nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="https://fooddrink.netlify.app/index.html"  ><img alt="img/logo.png" src="img/logo.png"  width="150px" ></a>
+<a class="navbar-brand" href="https://foodadrink.netlify.app/index.html"  ><img alt="img/logo.png" src="img/logo.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-<span class="navbar-toggler-icon"></span></button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto navbar-nav align-items-center d-flex"><li class="nav-item"><a class="nav-link ebaa1d3f0e245a154e45ad27c60235654" href="https://fooddrink.netlify.app/news.html"  >News</a></li>
-  
-<li class="nav-item  dropdown">
-<a class="ebaa1d3f0e245a154e45ad27c60235654 dropdown-toggle nav-link" href="https://fooddrink.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Tasty Tales Food and Drink Blog</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://fooddrink.netlify.app/index.html"  >Tasty Tales Food and Drink Blog</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/recipes.html"  >Recipes</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/cooking-techniques.html"  >Cooking techniques</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/food-safety.html"  >Food safety</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/nutrition.html"  >Nutrition</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/culinary-trends.html"  >Culinary trends</a>
-  
-<li class="nav-item dropdown ">
-<a class="ebaa1d3f0e245a154e45ad27c60235654 nav-link dropdown-toggle" href="https://fooddrink.netlify.app/recipes-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Recipes</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://fooddrink.netlify.app/recipes-1.html"  >Recipes</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/baking-recipes.html"  >Baking recipes</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/easy-weeknight-dinners.html"  >Easy weeknight dinners</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/healthy-meal-ideas.html"  >Healthy meal ideas</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/international-cuisines.html"  >International cuisines</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/dessert-recipes.html"  >Dessert recipes</a>
-  
-<li class="nav-item dropdown ">
-<a class="nav-link ebaa1d3f0e245a154e45ad27c60235654 dropdown-toggle" href="https://fooddrink.netlify.app/cooking-techniques-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Cooking techniques</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://fooddrink.netlify.app/cooking-techniques-1.html"  >Cooking techniques</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/grilling-tips.html"  >Grilling tips</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/baking-methods.html"  >Baking methods</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/sauteing-techniques.html"  >Sauteing techniques</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/slow-cooking.html"  >Slow cooking</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/sous-vide-cooking.html"  >Sous vide cooking</a>
+<span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="align-items-center navbar-nav ml-auto d-flex"><li class="nav-item"><a class="nav-link wc15dbad97e4852a59832f6ff30c98e0d" href="https://foodadrink.netlify.app/news.html"  >News</a></li>
   
 <li class="dropdown nav-item ">
-<a class="nav-link dropdown-toggle ebaa1d3f0e245a154e45ad27c60235654" href="https://fooddrink.netlify.app/food-safety-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Food safety</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://fooddrink.netlify.app/food-safety-1.html"  >Food safety</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/proper-food-storage.html"  >Proper food storage</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/safe-cooking-temperatures.html"  >Safe cooking temperatures</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/crosscontamination-prevention.html"  >Crosscontamination prevention</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/allergen-awareness.html"  >Allergen awareness</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/hygiene-practices.html"  >Hygiene practices</a>
+<a class="dropdown-toggle wc15dbad97e4852a59832f6ff30c98e0d nav-link" href="https://foodadrink.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Tasty Tales Food and Drink Blog</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://foodadrink.netlify.app/index.html"  >Tasty Tales Food and Drink Blog</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/recipes.html"  >Recipes</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/cooking-techniques.html"  >Cooking techniques</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/food-safety.html"  >Food safety</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/nutrition.html"  >Nutrition</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/culinary-trends.html"  >Culinary trends</a>
   
 <li class="nav-item dropdown ">
-<a class="dropdown-toggle ebaa1d3f0e245a154e45ad27c60235654 nav-link" href="https://fooddrink.netlify.app/guides.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Guides</a>
+<a class="nav-link wc15dbad97e4852a59832f6ff30c98e0d dropdown-toggle" href="https://foodadrink.netlify.app/recipes-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Recipes</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://foodadrink.netlify.app/recipes-1.html"  >Recipes</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/baking-recipes.html"  >Baking recipes</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/easy-weeknight-dinners.html"  >Easy weeknight dinners</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/healthy-meal-ideas.html"  >Healthy meal ideas</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/international-cuisines.html"  >International cuisines</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/dessert-recipes.html"  >Dessert recipes</a>
+  
+<li class=" nav-item dropdown">
+<a class="wc15dbad97e4852a59832f6ff30c98e0d dropdown-toggle nav-link" href="https://foodadrink.netlify.app/cooking-techniques-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Cooking techniques</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://fooddrink.netlify.app/guides.html"  >Guides</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/nutrition-1.html"  >Nutrition</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/macronutrients-vs-micronutrients.html"  >Macronutrients vs micronutrients</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/dietary-guidelines.html"  >Dietary guidelines</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/superfoods.html"  >Superfoods</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/meal-planning-tips.html"  >Meal planning tips</a>
-<a class="dropdown-item" href="https://fooddrink.netlify.app/nutritional-supplements.html"  >Nutritional supplements</a>
-<li class="nav-item"><a class="ebaa1d3f0e245a154e45ad27c60235654 nav-link" rel=nofollow href="https://fooddrink.netlify.app/about-us.html">About Us</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/cooking-techniques-1.html"  >Cooking techniques</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/grilling-tips.html"  >Grilling tips</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/baking-methods.html"  >Baking methods</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/sauteing-techniques.html"  >Sauteing techniques</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/slow-cooking.html"  >Slow cooking</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/sous-vide-cooking.html"  >Sous vide cooking</a>
+  
+<li class=" dropdown nav-item">
+<a class="nav-link wc15dbad97e4852a59832f6ff30c98e0d dropdown-toggle" href="https://foodadrink.netlify.app/food-safety-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Food safety</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://foodadrink.netlify.app/food-safety-1.html"  >Food safety</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/proper-food-storage.html"  >Proper food storage</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/safe-cooking-temperatures.html"  >Safe cooking temperatures</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/crosscontamination-prevention.html"  >Crosscontamination prevention</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/allergen-awareness.html"  >Allergen awareness</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/hygiene-practices.html"  >Hygiene practices</a>
+  
+<li class=" dropdown nav-item">
+<a class="wc15dbad97e4852a59832f6ff30c98e0d dropdown-toggle nav-link" href="https://foodadrink.netlify.app/guides.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Guides</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://foodadrink.netlify.app/guides.html"  >Guides</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/nutrition-1.html"  >Nutrition</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/macronutrients-vs-micronutrients.html"  >Macronutrients vs micronutrients</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/dietary-guidelines.html"  >Dietary guidelines</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/superfoods.html"  >Superfoods</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/meal-planning-tips.html"  >Meal planning tips</a>
+<a class="dropdown-item" href="https://foodadrink.netlify.app/nutritional-supplements.html"  >Nutritional supplements</a>
+<li class="nav-item"><a class="wc15dbad97e4852a59832f6ff30c98e0d nav-link" rel=nofollow href="https://foodadrink.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -201,19 +201,19 @@ scroll-behavior: smooth;
 <p>
 This website is owned and published by:
 Tasty Tales</br>
-956-504-1662</br>
-2062  Grove Street</br>
+340-645-9228</br>
+1536  South Street</br>
 Cleveland, OH, 44113</br>
-USA</br>
+United States</br>
 </br>
-AbigailDrive@gmail.com</br>
+VictoriaYoungStyle22@gmail.com</br>
 </p>
 </section>
 <footer>
-<div class="pt-5 container py-4" >
-<div class="row"><div class="col-lg-3"><p><a class="ebaa1d3f0e245a154e45ad27c60235654" href="https://fooddrink.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="ebaa1d3f0e245a154e45ad27c60235654" href="https://fooddrink.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="ebaa1d3f0e245a154e45ad27c60235654" href="https://fooddrink.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<div class="pt-5 py-4 container" >
+<div class="row"><div class="col-lg-3"><p><a class="wc15dbad97e4852a59832f6ff30c98e0d" href="https://foodadrink.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="wc15dbad97e4852a59832f6ff30c98e0d" href="https://foodadrink.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="wc15dbad97e4852a59832f6ff30c98e0d" href="https://foodadrink.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
